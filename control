@@ -1,0 +1,10 @@
+Package: com.appknox.screencapping
+Name: screencapping
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: Sharat M R
+Author: Sharat M R
+Section: System
+Tag: role::hacker
